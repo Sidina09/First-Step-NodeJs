@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-cohorote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "mongoose": "^6.4.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.4"
+  }
+}
